@@ -16,3 +16,4 @@ int main(){
 	scanf("%d",&n);
 	printf(" ",tamgiac(n));
 }
+// sửa đôi chút 
